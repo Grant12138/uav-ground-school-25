@@ -7,3 +7,4 @@ venv/
 *.synctex.gz
 *.tex
 *.out
+*schematic.pdf
