@@ -6,3 +6,4 @@ venv/
 *.log
 *.synctex.gz
 *.tex
+*.out
